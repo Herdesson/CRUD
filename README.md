@@ -1,2 +1,2 @@
 # CRUD
-CRUD criado em Java e MYSQL
+CRUD criado em Java, Spring Boot e MySQL
